@@ -11,4 +11,4 @@
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusnfs&theme=transparent&bg_color=&border_color=3CB371&show_icons=true&icon_color=3CB371&title_color=3CB371&text_color=FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusnfs&theme=transparent&bg_color=&border_color=3CB371&show_icons=true&icon_color=3CB371&title_color=3CB371&text_color=FF&hide_title=true)
