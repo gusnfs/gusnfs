@@ -11,9 +11,4 @@
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusnfs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-<!---
-gusnfs/gusnfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusnfs&theme=transparent&bg_color=&border_color=3CB371&show_icons=true&icon_color=3CB371&title_color=3CB371&text_color=FF)
